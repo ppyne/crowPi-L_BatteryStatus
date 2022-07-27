@@ -9,8 +9,8 @@ Battery status for the [CrowPi L laptop](https://www.crowpi.cc/products/crowpi-l
 - 7 state icons of the battery from 0% to 100%,
 - icon when charging,
 - alert icon when battery is very low,
-- a tooltip to view the percentage of the battery load and its voltage,
-- a contextual menu to properly quit the app.
+- tooltip to view the percentage of the battery load and its voltage,
+- contextual menu to properly quit the app.
 
 ## Installing and starting the application
 
