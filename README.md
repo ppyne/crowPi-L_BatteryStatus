@@ -1,6 +1,6 @@
 # CrowPi L Battery status
 
-Battery status for the CrowPi L laptop (Linux Raspberry Pi OS) standing in the system tray, written with python3 and python3-pyqt5.
+Battery status for the [CrowPi L laptop](https://www.crowpi.cc/products/crowpi-l), with the native Linux Raspberry Pi OS, standing in the system tray, written with python3 and python3-pyqt5.
 
 ![Animation](anim.gif)
 
@@ -19,5 +19,3 @@ $ chmod +x ./batteryStatus.py
 $ ./batteryStatus.py
 ```
 **Warning:** to quit the app properly, you must right click on its icon in the system tray and click the menu "Quit".
-
-The CrowPi L laptop case is available here [www.crowpi.cc](https://www.crowpi.cc/products/crowpi-l)
