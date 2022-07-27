@@ -6,6 +6,8 @@ Battery status for the [CrowPi L laptop](https://www.crowpi.cc/products/crowpi-l
 
 ## Features
 
+- running on the native Linux Raspberry Pi OS,
+- standing in the system tray,
 - 7 state icons of the battery from 0% to 100%,
 - icon when charging,
 - alert icon when battery is very low,
