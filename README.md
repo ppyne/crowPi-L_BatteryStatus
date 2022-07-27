@@ -6,14 +6,14 @@ Battery status for the [CrowPi L laptop](https://www.crowpi.cc/products/crowpi-l
 
 ## Features
 
-- running on the native Linux Raspberry Pi OS,
+- Running on the native Linux Raspberry Pi OS,
 - standing in the system tray,
 - 7 state icons of the battery from 0% to 100%,
 - icon when charging,
 - alert icon when battery is very low,
 - tooltip to view the percentage of the battery load and its voltage,
 - contextual menu to properly quit the app,
-- based on the official python script delivered by CrowPi,
+- based on the official python script delivered by CrowPi (`/usr/local/sbin/getPowerBattery.py`),
 - multi-threaded app to access the battery data with I2C.
 
 ## Installing and starting the application
