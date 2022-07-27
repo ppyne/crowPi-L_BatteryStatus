@@ -1,4 +1,4 @@
-# crowPi L Battery status
+# CrowPi L Battery status
 
 Battery status for the CrowPi L laptop (Linux Raspberry Pi OS) standing in the system tray, written with python3 and python3-pyqt5.
 
