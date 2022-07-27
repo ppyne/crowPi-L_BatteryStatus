@@ -19,3 +19,5 @@ $ chmod +x ./batteryStatus.py
 $ ./batteryStatus.py
 ```
 **Warning:** to quit the app properly, you must right click on its icon in the system tray and click the menu "Quit".
+
+The CrowPi L laptop case is available here [www.crowpi.cc](https://www.crowpi.cc/products/crowpi-l)
