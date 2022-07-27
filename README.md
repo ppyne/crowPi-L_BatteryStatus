@@ -15,3 +15,4 @@ $ cd crowPi-L_BatteryStatus/
 $ chmod +x ./batteryStatus.py
 $ ./batteryStatus.py
 ```
+Warning: to quit the app properly, you must right click on its icon in the system tray and click the menu "Quit".
