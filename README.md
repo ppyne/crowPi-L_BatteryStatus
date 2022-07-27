@@ -4,6 +4,16 @@ Battery status for the [CrowPi L laptop](https://www.crowpi.cc/products/crowpi-l
 
 ![Animation](anim.gif)
 
+## Features
+
+- 7 state icons of the battery from 0% to 100%,
+- icon when charging,
+- alert icon when battery is very low,
+- a tooltip to view the percentage of the battery load and its voltage,
+- a contextual menu to properly quit the app.
+
+## Installing and starting the application
+
 From a terminal, install python3-pyqt5
 
 ```
@@ -18,13 +28,5 @@ $ cd crowPi-L_BatteryStatus/
 $ chmod +x ./batteryStatus.py
 $ ./batteryStatus.py
 ```
-
-Features:
-
-- 7 state icons of the battery from 0% to 100%,
-- icon when charging,
-- alert icon when battery is very low,
-- a tooltip to view the percentage of the battery load and its voltage,
-- a contextual menu to properly quit the app.
 
 **Warning:** to quit the app properly, you must right click on its icon in the system tray and click the menu "Quit".
