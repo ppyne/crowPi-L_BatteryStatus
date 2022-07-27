@@ -10,7 +10,9 @@ Battery status for the [CrowPi L laptop](https://www.crowpi.cc/products/crowpi-l
 - icon when charging,
 - alert icon when battery is very low,
 - tooltip to view the percentage of the battery load and its voltage,
-- contextual menu to properly quit the app.
+- contextual menu to properly quit the app,
+- based on the official script delivered by CrowPi,
+- multi-threaded app to access the battery data with I2C.
 
 ## Installing and starting the application
 
